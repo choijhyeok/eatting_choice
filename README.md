@@ -1,1 +1,2 @@
-# eatting_choice
+# eatting_choice mini project
+
